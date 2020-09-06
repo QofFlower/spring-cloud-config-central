@@ -2,6 +2,6 @@ server:
   port: 9099
 
 character:
-  name: vergil
+  name: nero
   weapon: rebellion
 
