@@ -1,6 +1,7 @@
 server:
   port: 9099
 
-application:
-  name: devil-may-cry
+character:
+  name: dante
+  weapon: rebellion
 
