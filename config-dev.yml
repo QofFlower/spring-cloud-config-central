@@ -1,8 +1,6 @@
 server:
-  port:
-    9099
+  port: 9099
 
 application:
-  name:
-    devil-may-cry
+  name: devil-may-cry
 
